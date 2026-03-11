@@ -56,9 +56,9 @@ Clona el repositorio:
 ```
 git clone [https://github.com/plazagustavo/Zona-Fit-Web.git](https://github.com/plazagustavo/Zona-Fit-Web.git)
 ```
-Importa el proyecto en tu IDE como un Proyecto Maven.
-Ejecuta la clase principal: ZonaFitWeb.java.
-Accede en tu navegador a: http://localhost:8080
+* **Importa el proyecto** en tu IDE como un Proyecto Maven.
+* **Ejecuta la clase principal:** `ZonaFitWeb.java`.
+* **Accede en tu navegador a:** http://localhost:8080
 
 📸 Interfaz de Usuario
 <img width="1907" height="517" alt="image" src="https://github.com/user-attachments/assets/acbfdcb9-0538-4294-8772-19aca0986375" />
